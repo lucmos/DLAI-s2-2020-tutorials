@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pytorch-tutorial"
+version = "0.1.0"
+description = "Lab sessions of the DLAI course"
+authors = ["Luca Moschella <luca.moschella94@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+ipython = "^7.12.0"
+RISE = "^5.6.1"
+torch = "^1.4.0"
+torchvision = "^0.5.0"
+matplotlib = "^3.1.3"
+plotly = "^4.5.1"
+jupyter_contrib_core = "^0.3.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
