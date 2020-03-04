@@ -6,7 +6,7 @@ This repository contains the code and notebooks shown during the course lab tuto
 
 **Lecturer:** Prof. Emanuele Rodolà
 
-**Course website:** https://erodola.github.io/DLAI-s2-2020/
+**Course website:** [DLAI-s2-2020](https://erodola.github.io/DLAI-s2-2020/)
 
 **Assistants:** Dr. Luca Moschella, Dr. Antonio Norelli
 

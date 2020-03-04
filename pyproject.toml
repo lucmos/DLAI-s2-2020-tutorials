@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "pytorch-tutorial"
+name = "DLAI-s2-2020-tutorials"
 version = "0.1.0"
 description = "Lab sessions of the DLAI course"
-authors = ["Luca Moschella <luca.moschella94@gmail.com>"]
+authors = ["Luca Moschella <moschella@di.uniroma1.it>", "Antonio Norelli <norelli@di.uniroma1.it>"]
 
 [tool.poetry.dependencies]
 python = "^3.7.5"
@@ -15,6 +15,7 @@ matplotlib = "^3.1.3"
 plotly = "^4.5.1"
 jupyter_contrib_core = "^0.3.3"
 jupyter_contrib_nbextensions = "^0.5.1"
+scikit-image = "^0.16.2"
 
 [tool.poetry.dev-dependencies]
 
