@@ -5,7 +5,7 @@ description = "Lab sessions of the DLAI course"
 authors = ["Luca Moschella <luca.moschella94@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7.5"
 jupyter = "^1.0.0"
 ipython = "^7.12.0"
 RISE = "^5.6.1"
