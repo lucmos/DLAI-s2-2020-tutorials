@@ -12,15 +12,17 @@ This repository contains the code and notebooks shown during the course lab tuto
 
 ## Tutorials
 
-| **Date**   | **Topic**                          | **Code**                                                                                                                | **Open in Colab**                                                                                                                                                                                               |
-| ---------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|            |                                    |
-| Wed 4 Mar  | Tensors basics                     | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)                      |
-|            |                                    |
-| Wed 11 Mar | Tensor operations                  | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)                  |
-|            |                                    |
-| Wed 18 Mar | Linear models and Pytorch Datasets | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb) |
-|            |                                    |
+| **Date**   | **Topic**                            | **Code**                                                                                                                 | **Open in Colab**                                                                                                                                                                                                |
+| ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            |                                      |
+| Wed 4 Mar  | Tensors basics                       | [notebook](https://nbviewer.jupyter.org/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/01/01_Tensor_basics.ipynb)                       |
+|            |                                      |
+| Wed 11 Mar | Tensor operations                    | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/02/02_Tensor_operations.ipynb)                   |
+|            |                                      |
+| Wed 18 Mar | Linear models and Pytorch Datasets   | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/03/03_Linear_models_and_Pytorch_Datasets.ipynb)  |
+|            |                                      |
+| Wed 25 Mar | Logistic Regression and Optimization | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) |
+|            |                                      |
 
 
 ## Running local notebooks
