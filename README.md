@@ -23,7 +23,8 @@ This repository contains the code and notebooks shown during the course lab tuto
 |            |                                      |
 | Wed 25 Mar | Logistic Regression and Optimization | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/04/4_Logistic_Regression_and_Optimization.ipynb) |
 |            |                                      |
-
+| Wed 1 Apr  | Autograd and Modules                 | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb)                 |
+|            |                                      |
 
 ## Running local notebooks
 
