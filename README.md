@@ -25,6 +25,8 @@ This repository contains the code and notebooks shown during the course lab tuto
 |            |                                      |
 | Wed 1 Apr  | Autograd and Modules                 | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/05/5_Autograd_and_Modules.ipynb)                 |
 |            |                                      |
+| Wed 8 Apr  | Convolutional Neural Networks        | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/06/6_Convolutional_Neural_Networks.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/06/6_Convolutional_Neural_Networks.ipynb)        |
+|            |                                      |
 
 ## Running local notebooks
 
