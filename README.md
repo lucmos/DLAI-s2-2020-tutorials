@@ -29,6 +29,8 @@ This repository contains the code and notebooks shown during the course lab tuto
 |            |                                                           |
 | Wed 29 Apr | Uncertainty, regularization and the deep learning toolset | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/07/7_Uncertainty,_regularization_and_the_deep_learning_toolset.ipynb) |
 |            |                                                           |
+| Wed 6 May  | Variational Autoencoders (VAEs)                           | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb)                           |
+|            |                                                           |
 
 ## Running local notebooks
 
