@@ -31,6 +31,8 @@ This repository contains the code and notebooks shown during the course lab tuto
 |            |                                                           |
 | Wed 6 May  | Variational Autoencoders (VAEs)                           | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/08/8_Variational_Autoencoders_(VAEs).ipynb)                           |
 |            |                                                           |
+| Wed 13 May | Geometric Deep Learning                                   | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb)                                                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb)                                                         |
+|            |                                                           |
 
 ## Running local notebooks
 
