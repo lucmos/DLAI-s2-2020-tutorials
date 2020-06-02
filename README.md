@@ -33,6 +33,8 @@ This repository contains the code and notebooks shown during the course lab tuto
 |            |                                                           |
 | Wed 13 May | Geometric Deep Learning                                   | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb)                                                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/09/GCN.ipynb)                                                         |
 |            |                                                           |
+| Wed 20 May | CycleGAN and Adversarial Attacks                          | [notebook](https://github.com/lucmos/DLAI-s2-2020-tutorials/blob/master/10/CycleGAN_and_Adversarial_Attacks.ipynb)                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucmos/DLAI-s2-2020-tutorials/blob/master/10/CycleGAN_and_Adversarial_Attacks.ipynb)                            |
+|            |
 
 ## Running local notebooks
 
